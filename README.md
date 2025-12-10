@@ -1,5 +1,7 @@
 # 📚 BD_doctorado
 
+![SQL](https://img.shields.io/badge/language-SQL-blue.svg)
+
 Base de datos realizada en las prácticas de la Universidad de Cádiz (UCA).
 
 Este proyecto consiste en el diseño y creación de una **Base de Datos** utilizando **phpMyAdmin** para que se use en la asignatura **Bases de Datos** del Grado en Ingeniería Informática.
@@ -12,6 +14,7 @@ Este proyecto consiste en el diseño y creación de una **Base de Datos** utiliz
 Gist: **c39e9eb5515563d7ac25dbbbf60a6267**
 
 ## 🛠 Tecnologías utilizadas 
+- Lenguaje SQL
 - phpMyAdmin  
 - RelaX (para modelo relacional)
 
