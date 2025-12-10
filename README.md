@@ -1,6 +1,7 @@
 # 📚 BD_doctorado
 
-![SQL](https://img.shields.io/badge/language-SQL-blue.svg)
+![SQL](https://img.shields.io/badge/SQL-database-003f5c?style=flat-square)
+
 
 Base de datos realizada en las prácticas de la Universidad de Cádiz (UCA).
 
